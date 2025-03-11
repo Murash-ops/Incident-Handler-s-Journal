@@ -17,4 +17,5 @@ I explored different cybersecurity incidents, including phishing, ransomware, an
 I gained practical experience in network traffic analysis and file hash investigation.
 
 **Conclusion**
+
 Throughout this process, I’ve grown more comfortable with cybersecurity tools and methodologies. Some tasks, like using tcpdump, were initially challenging, but I learned through trial and error. My ability to detect and respond to security incidents has improved, and I look forward to continuing this journey.
